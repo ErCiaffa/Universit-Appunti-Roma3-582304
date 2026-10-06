@@ -1,0 +1,18 @@
+# Obsidian workspace state (cambia a ogni apertura di tab/finestra)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+**/.obsidian/workspace.json
+**/.obsidian/workspace-mobile.json
+
+# Cestino di Obsidian
+.trash/
+
+# Cache ed embedding del plugin Smart Connections
+.smart-env/
+
+# File scratch e temporanei
+**/scratch/
+
+# File di sistema operativo
+.DS_Store
+Thumbs.db

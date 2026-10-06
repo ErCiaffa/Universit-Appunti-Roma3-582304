@@ -1,0 +1,149 @@
+{
+  "collapse-filter": false,
+  "search": "-path:Templates",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Reti di Calcolatori/Reti\"",
+      "color": {
+        "a": 1,
+        "rgb": 15381256
+      }
+    },
+    {
+      "query": "path:\"Reti/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15381256
+      }
+    },
+    {
+      "query": "path:\"Reti di Calcolatori/Commutazioni\"",
+      "color": {
+        "a": 1,
+        "rgb": 440020
+      }
+    },
+    {
+      "query": "path:\"Commutazioni/\"",
+      "color": {
+        "a": 1,
+        "rgb": 440020
+      }
+    },
+    {
+      "query": "path:\"Reti di Calcolatori/ISO-OSI\"",
+      "color": {
+        "a": 1,
+        "rgb": 11031031
+      }
+    },
+    {
+      "query": "path:\"ISO-OSI/\"",
+      "color": {
+        "a": 1,
+        "rgb": 11031031
+      }
+    },
+    {
+      "query": "path:\"Reti di Calcolatori/IEEE 802\"",
+      "color": {
+        "a": 1,
+        "rgb": 2278750
+      }
+    },
+    {
+      "query": "path:\"IEEE 802/\"",
+      "color": {
+        "a": 1,
+        "rgb": 2278750
+      }
+    },
+    {
+      "query": "path:\"Reti di Calcolatori/Kathara\"",
+      "color": {
+        "a": 1,
+        "rgb": 15990622
+      }
+    },
+    {
+      "query": "path:\"Kathara/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15990622
+      }
+    },
+    {
+      "query": "path:\"Base di Dati/01_Concetti\"",
+      "color": {
+        "a": 1,
+        "rgb": 3899638
+      }
+    },
+    {
+      "query": "path:\"01_Concetti/\"",
+      "color": {
+        "a": 1,
+        "rgb": 3899638
+      }
+    },
+    {
+      "query": "path:\"Base di Dati/02_Struttura\"",
+      "color": {
+        "a": 1,
+        "rgb": 1095809
+      }
+    },
+    {
+      "query": "path:\"02_Struttura/\"",
+      "color": {
+        "a": 1,
+        "rgb": 1095809
+      }
+    },
+    {
+      "query": "path:\"Base di Dati/03_Vincoli\"",
+      "color": {
+        "a": 1,
+        "rgb": 15990622
+      }
+    },
+    {
+      "query": "path:\"03_Vincoli/\"",
+      "color": {
+        "a": 1,
+        "rgb": 15990622
+      }
+    },
+    {
+      "query": "path:\"Base di Dati/04_SQL\"",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    },
+    {
+      "query": "path:\"04_SQL/\"",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.8513543546030196,
+  "close": false
+}

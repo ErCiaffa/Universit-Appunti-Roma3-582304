@@ -1,0 +1,11 @@
+#!/bin/bash
+# Configura l'interfaccia eth0 verso la LAN 1 (dominio A)
+ip address add 192.168.1.254/24 dev eth0
+ip link set eth0 up
+
+# Configura l'interfaccia eth1 verso la LAN 2 (dominio B)
+ip address add 192.168.2.254/24 dev eth1
+ip link set eth1 up
+
+# Abilita l'inoltro dei pacchetti IP tra interfacce diverse (FONDAMENTALE per un router!)
+sysctl -w net.ipv4.ip_forward=1

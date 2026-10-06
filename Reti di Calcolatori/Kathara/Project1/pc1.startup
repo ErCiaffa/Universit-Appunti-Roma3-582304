@@ -1,0 +1,9 @@
+#!/bin/bash
+# Assegna l'indirizzo IP all'interfaccia eth0
+ip address add 192.168.1.1/24 dev eth0
+
+# Attiva l'interfaccia di rete
+ip link set eth0 up
+
+# Imposta il gateway predefinito verso l'interfaccia eth0 del router
+ip route add default via 192.168.1.254
